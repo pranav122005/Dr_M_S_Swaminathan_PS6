@@ -1,0 +1,1 @@
+the app is a KIVY app build it in google colab using buildozer
